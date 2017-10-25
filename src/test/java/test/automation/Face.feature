@@ -10,8 +10,6 @@ When User submit login form with valid data
 
 
 | Fied | Value |
-| email | natalyakulish@gmail.com |
-| password |27101989Ok|
 
 And User submit "Login" button
 
